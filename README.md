@@ -22,3 +22,6 @@ XR Gesture Detection Using Unity Sentis
    
 ## Training (Colab) ##
 <a href="https://colab.research.google.com/drive/1sVIXASCz_UtOH-iNH-ztBYlsfsL69GB7?usp=sharing"><img alt="colab link" src="https://colab.research.google.com/assets/colab-badge.svg" /></a>
+
+## Result ##
+<img src="https://github.com/skykim/XR-Gesture-Detection/blob/main/iloveu6.gif?raw=true" />
